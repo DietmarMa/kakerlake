@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://dietmarma.github.io/motortest/](https://dietmarma.github.io/motortest/) öffnen
+> Diese Seite bei [https://dietmarma.github.io/kakerlake/](https://dietmarma.github.io/kakerlake/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -8,7 +8,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Neues Projekt**
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/dietmarma/motortest** suchen und importieren
+* nach **https://github.com/dietmarma/kakerlake** suchen und importieren
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/dietmarma/motortest/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/dietmarma/motortest** ein und klicke auf Importieren
+* füge **https://github.com/dietmarma/kakerlake** ein und klicke auf Importieren
 
 ## Blockvorschau
 
