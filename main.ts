@@ -2,7 +2,7 @@ input.onButtonPressed(Button.A, function () {
     basic.showIcon(IconNames.Confused)
     pins.digitalWritePin(DigitalPin.P0, 1)
     while (true) {
-        if (input.lightLevel() < 100) {
+        if (input.lightLevel() < 50) {
             basic.showIcon(IconNames.House)
             pins.digitalWritePin(DigitalPin.P0, 0)
         }
